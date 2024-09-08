@@ -1,0 +1,36 @@
+!DOCTYPE html>
+
+<head><h1>Semantic Elements in HTML</h1></head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Paris</a></li>
+                <li><a href="#">Tokyo</a></li>
+                <li><a href="#">Rio</a></li>
+                <li><a href="#">London</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="Paris">
+        <article>
+            <p>
+            Paris, the capital of France, is renowned for its rich history, stunning architecture, and vibrant culture. Often called
+            the "City of Light," it is home to iconic landmarks like the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral.
+            </p>
+            <figure>
+                <figcaption>Paris</figcaption>
+                <img src="Paris.jpeg">
+            </figure>
+        </article>
+    </section>
+
+    <footer>
+        <ul>
+            <li>Location</li>
+        </ul>
+    </footer>
+</body>
+
+</html>
